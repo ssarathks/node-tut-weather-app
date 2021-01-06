@@ -7,7 +7,6 @@ const message2 = document.querySelector('#message2')
 searchForm.addEventListener('submit', (e) => {
   e.preventDefault()
   message1.textContent = 'Loading'
-  message1.textContent = ''
 
   const location = search.value
 
