@@ -1,6 +1,3 @@
-console.log('Script started running');
-
-
 
 const searchForm = document.querySelector('form')
 const search = document.querySelector('input')
